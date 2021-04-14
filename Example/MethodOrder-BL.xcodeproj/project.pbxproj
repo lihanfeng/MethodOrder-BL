@@ -43,7 +43,6 @@
 		6E66DC5BECFE3AE94B199120 /* Pods-MethodOrder-BL_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MethodOrder-BL_Example.debug.xcconfig"; path = "Target Support Files/Pods-MethodOrder-BL_Example/Pods-MethodOrder-BL_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8EF516C48AB50573334D157C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C6770208492F4AA713C5AE5B /* Pods-MethodOrder-BL_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MethodOrder-BL_Example.release.xcconfig"; path = "Target Support Files/Pods-MethodOrder-BL_Example/Pods-MethodOrder-BL_Example.release.xcconfig"; sourceTree = "<group>"; };
 		FF6EED5D86697395066A7558 /* Pods_MethodOrder_BL_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MethodOrder_BL_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -126,7 +125,6 @@
 			isa = PBXGroup;
 			children = (
 				0207D21712ED0B5E484F5736 /* MethodOrder-BL.podspec */,
-				8EF516C48AB50573334D157C /* README.md */,
 				0F611E006CD302227AF5760A /* LICENSE */,
 			);
 			name = "Podspec Metadata";
