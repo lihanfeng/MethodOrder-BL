@@ -1,0 +1,16 @@
+PODS:
+  - MethodOrder-BL (0.1.0)
+
+DEPENDENCIES:
+  - MethodOrder-BL (from `../`)
+
+EXTERNAL SOURCES:
+  MethodOrder-BL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MethodOrder-BL: be1846b92abf00dca01db611a2c20f8e1cf122b3
+
+PODFILE CHECKSUM: 6dc82e5f2a1319470d8cb06892bd449c79f635e4
+
+COCOAPODS: 1.9.3

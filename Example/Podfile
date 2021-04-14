@@ -5,9 +5,4 @@ platform :ios, '9.0'
 target 'MethodOrder-BL_Example' do
   pod 'MethodOrder-BL', :path => '../'
 
-  target 'MethodOrder-BL_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

@@ -7,6 +7,7 @@
 //
 
 #import "BLViewController.h"
+#import "MethodOrder.h"
 
 @interface BLViewController ()
 
@@ -14,10 +15,15 @@
 
 @implementation BLViewController
 
++ (void)load
+{
+    
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    StartMethodOrder(nil);
 }
 
 - (void)didReceiveMemoryWarning
